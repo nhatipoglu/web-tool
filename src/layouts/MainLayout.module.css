@@ -1,0 +1,10 @@
+/* layouts/MainLayout.module.css */
+.mainLayout {
+    display: flex;
+}
+
+.content {
+    margin-left: 260px; /* Sidebar için boşluk */
+    padding: 20px;
+    width: 100%;
+}
