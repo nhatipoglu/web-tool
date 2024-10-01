@@ -1,5 +1,4 @@
 ```
-mermaid
 src/
 │
 ├── assets/               # Statik dosyalar (CSS, resimler vb.)
