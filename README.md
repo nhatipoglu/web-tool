@@ -1,4 +1,5 @@
-```mermaid
+```
+mermaid
 src/
 │
 ├── assets/               # Statik dosyalar (CSS, resimler vb.)
@@ -42,3 +43,4 @@ src/
 └── routes/               # Uygulama yönlendirmeleri
     ├── index.js
     └── PrivateRoute.js   # Giriş gerektiren rotalar
+```
